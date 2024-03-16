@@ -1,4 +1,4 @@
-/* Name: Nico Gonnella
+/* Name: NG
 Date: 3/15/24
 Description: coding the Deck class functions-- deck, shuffle, draw, replenish, and size functions were all modified from previous war file
  * Source:
