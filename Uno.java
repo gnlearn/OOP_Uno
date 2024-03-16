@@ -1,4 +1,4 @@
-/*Name: Nico Gonnella
+/*Name: NG
 Date: 3/15/24
 Description: Card game assignment: Uno.
 Sources Cited:
